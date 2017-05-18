@@ -23,6 +23,9 @@ Q: Will this take over the world?
 
 A: Quite Possibly
 
+* it's a crack in the dam
+* showing people decentralization can work
+* dunno yet if the crack is big enough
 ---
 
 Q: Can the technology scale to everyone on the planet?
