@@ -122,7 +122,7 @@ A: Yes, like email
 ### And yet... 
 
 ![Fediverse](fediverse.png)
- 
+
 ### Stats
 
 * https://radar.amberstone.digital/chart/fediverse
