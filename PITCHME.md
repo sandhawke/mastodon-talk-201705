@@ -155,13 +155,13 @@ A: Yes, like email
 
 ### Stats
 
-* https://radar.amberstone.digital/chart/fediverse
-* https://metadon.jemu.name/#users
-* https://dashboards.mnm.social/
+* <a href="https://radar.amberstone.digital/chart/fediverse">radar (bubble chart)</a>
+* <a href="https://metadon.jemu.name/#users">metadon (users, and a lot more)</a>
+* <a href="https://dashboards.mnm.social/">mnm, time series dashboard</a>
 
 and
 
-* https://www.w3.org/wiki/SocialCG
+* <a href="https://www.w3.org/wiki/SocialCG">Active: Social Web CG (meeting tomorrow)</a>
 
 
 
