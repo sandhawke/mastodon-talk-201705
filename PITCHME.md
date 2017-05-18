@@ -118,7 +118,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    <a href="https://github.com/sandhawke/admin-survey">Admin Survey</a> (new idea, last night)
+-    Fun idea: `https://github.com/sandhawke/admin-survey`
 
 ---
 
@@ -155,13 +155,13 @@ A: Yes, like email
 
 ### Stats
 
-* <a href="https://radar.amberstone.digital/chart/fediverse">radar (bubble chart)</a>
-* <a href="https://metadon.jemu.name/#users">metadon (users, and a lot more)</a>
-* <a href="https://dashboards.mnm.social/">mnm, time series dashboard</a>
+* `https://radar.amberstone.digital/chart/fediverse` radar (bubble chart)
+* `https://metadon.jemu.name/#users` metadon (users, and a lot more)
+* `https://dashboards.mnm.social/` mnm, time series dashboard
 
 and
 
-* <a href="https://www.w3.org/wiki/SocialCG">Active: Social Web CG (meeting tomorrow)</a>
+* `https://www.w3.org/wiki/SocialCG` Social Web CG (meeting tomorrow)
 
 
 
