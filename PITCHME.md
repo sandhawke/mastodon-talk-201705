@@ -8,12 +8,7 @@ Sandro Hawke
 
 @sandhawke@mastodon.social
 
----
-
-Note on gitpitch:
-
-* Sorry, but links seem to be broken right now, you'll have to copy-paste them
-* Or use source (click "mastodon-talk-201705" in the frame, then PITCHME)
+<a href="https://github.com/sandhawke/mastodon-talk-201705" target="_blank">https://github.com/sandhawke/mastodon-talk-201705</a>
 
 ---
 
@@ -23,8 +18,7 @@ Before we get started, please watch this
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-* On youtube: `https://www.youtube.com/watch?v=vd2ct1Pljv8`
-What is the Mastodon Social Network?
+* On youtube: <a href="https://www.youtube.com/watch?v=vd2ct1Pljv8" target="_blank">What is the Mastodon Social Network?</a>
 
 
 ---
@@ -125,7 +119,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    Fun idea: `https://github.com/sandhawke/admin-survey`
+-    <a href="https://github.com/sandhawke/admin-survey">Admin Survey</a> (new idea, last night)
 
 ---
 
@@ -162,13 +156,11 @@ A: Yes, like email
 
 ### Stats
 
-* `https://radar.amberstone.digital/chart/fediverse` radar (bubble chart)
-* `https://metadon.jemu.name/#users` metadon (users, and a lot more)
-* `https://dashboards.mnm.social/` mnm, time series dashboard
+* <a href="https://radar.amberstone.digital/chart/fediverse" target="_blank">radar (bubble chart)</a>
+* <a href="https://metadon.jemu.name/#users" target="_blank">metadon (users, and a lot more)</a>
+* <a href="https://dashboards.mnm.social/" target="_blank">mnm, time series dashboard</a>
 
 and
 
-* `https://www.w3.org/wiki/SocialCG` Social Web CG (meeting tomorrow)
-
-
+* <a href="https://www.w3.org/wiki/SocialCG" target="_blank">Active: Social Web CG (meeting tomorrow)</a>
 
