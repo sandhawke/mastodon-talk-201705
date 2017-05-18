@@ -1,8 +1,8 @@
 
-# Slides rendered at: https://gitpitch.com/sandhawke/mastodon-talk-201705
+# [View Slides](https://gitpitch.com/sandhawke/mastodon-talk-201705)
 
-Slides for a (last-minute) W3C Tech Talk (to the staff)
+**[Scribe notes from meeting](https://www.w3.org/2017/05/18-mastodon-minutes.html)**
 
 Plaintext is in [pitchme.md](./PITCHME.md)
 
-**Scribe notes from meeting: https://www.w3.org/2017/05/18-mastodon-minutes.html**
+Context: W3C staff are encouraged to give informal presentation to other staff members on topics that might be of interest.   They are optional attendence, usually entirely on-line (on the phone, with everyone looking at the slides in their browser).
