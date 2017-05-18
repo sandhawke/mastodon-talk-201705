@@ -119,7 +119,13 @@ A: Yes, like email
 
 ---
 
-### And yet... [1](https://radar.amberstone.digital/chart/fediverse) [2](https://metadon.jemu.name/#users) [3](https://dashboards.mnm.social/)
+### And yet... 
 
 ![Fediverse](fediverse.png)
+
+### Stats
+
+* https://radar.amberstone.digital/chart/fediverse
+* https://metadon.jemu.name/#users
+* https://dashboards.mnm.social/
 
