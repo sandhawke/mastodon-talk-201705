@@ -58,8 +58,8 @@ A: Yes, like email
  - Inbound: use Mastodon as feed reader: rss/atom, reddit, twitter, facebook
  - Outbound: post to Mastodon and you're blogging, tweeting, etc
  - Combined: Like/Comment/Share could be bridged in+out of twitter/facebook
- - But is it necessary?   Maybe it'll have its own good-enough content
-   (This was what led Eric Ries to propose "Lean Startup")
+ - But is it necessary?   Maybe it'll have enough local content
+   -  This mistake led Eric Ries to propose "Lean Startup"
 
 ---
 
