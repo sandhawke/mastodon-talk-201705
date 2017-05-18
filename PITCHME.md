@@ -10,16 +10,21 @@ Sandro Hawke
 
 ---
 
+Note on gitpitch:
+
+* Sorry, but links seem to be broken right now, you'll have to copy-paste them
+* Or use source (click "mastodon-talk-201705" in the frame, then PITCHME)
+
+---
+
 Before we get started, please watch this
 
 (you can stop at the kid part)
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-* (Links in GitPitch are currently broken on Firefox, sorry!)
-
-* https://www.youtube.com/watch?v=vd2ct1Pljv8
-* What is the Mastodon Social Network?
+* On youtube: `https://www.youtube.com/watch?v=vd2ct1Pljv8`
+What is the Mastodon Social Network?
 
 
 ---
@@ -120,7 +125,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    https://github.com/sandhawke/admin-survey (new idea, last night)
+-    Fun idea: `https://github.com/sandhawke/admin-survey`
 
 ---
 
@@ -157,13 +162,13 @@ A: Yes, like email
 
 ### Stats
 
-* https://radar.amberstone.digital/chart/fediverse radar (bubble chart)
-* https://metadon.jemu.name/#users  users growth, and a lot more
-* https://dashboards.mnm.social/ time series dashboard
+* `https://radar.amberstone.digital/chart/fediverse` radar (bubble chart)
+* `https://metadon.jemu.name/#users` metadon (users, and a lot more)
+* `https://dashboards.mnm.social/` mnm, time series dashboard
 
 and
 
-* https://www.w3.org/wiki/SocialCG  Social Web CG (meeting tomorrow)
+* `https://www.w3.org/wiki/SocialCG` Social Web CG (meeting tomorrow)
 
 
 
