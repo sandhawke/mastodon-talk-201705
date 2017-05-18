@@ -16,9 +16,9 @@ Before we get started, please watch this
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-* On youtube: <a href="https://www.youtube.com/watch?v=vd2ct1Pljv8">
+* On youtube: https''://www.youtube.com/watch?v=vd2ct1Pljv8
 What is the Mastodon Social Network?
-</a>
+
 
 ---
 
