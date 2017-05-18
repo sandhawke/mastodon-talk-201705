@@ -6,21 +6,27 @@ W3C Tech Talk
 
 ---
 
-Q: Will this take over the world?
+Watch
 
-
-
-A: Quite Possibly
+* What is the Mastodon Social Network?  https://www.youtube.com/watch?v=vd2ct1Pljv8
 
 ---
 
-Q: Can the technology scale to everyone on the planet?
+## Q: Will this take over the world?
 
-A: Yes, like email
 
- - load on server depends on number of people hosted at that server
-   and how active they are in their communications.
- - hosting costs of mastodon.social are $0.03 per user per year
+
+## A: Quite Possibly
+
+---
+
+### Q: Can the technology scale to everyone on the planet?
+
+### A: Yes, like email
+
+- a server only handles the communiciations of the people hosted there
+- hosting costs for mastodon.social instance are $0.03 per user per year
+- obviously that will go up traffic, big photos, videos
 
 ---
 
@@ -41,38 +47,30 @@ A: Yes, like email
  - Key folks behind OStatus went on the make ActivityPub which is W3C CR
  - Mastodon devs have started implementing ActivityPub support, especially
    for the group and private message support
+ - We're asking the AC if the WG should be extended / slow down for this
 ---
-### W3C Community & Mastodon
- - Should W3C run an instance?
+### Run a W3C Instance?
  - discussion of W3C news/events (for people who avoid Twitter)
- - Helps show it's "real" and suitable for business
+ - help show it's "real" and suitable for business
  - possible custom integrations (can be done by 3rd parties)
     - github events? (subscribe to commits, issues, comments)
     - meeting records? (subscribe to Proposed/Resolved)
- - social.w3.org or community.w3.org or mastodon.w3.org
+ - name? social.w3.org or community.w3.org or mastodon.w3.org
 ---
-
 ## Do Folks Want Bridging?
-
  - Inbound: use Mastodon as feed reader: rss/atom, reddit, twitter, facebook
  - Outbound: post to Mastodon and you're blogging, tweeting, etc
  - Combined: Like/Comment/Share could be bridged in+out of twitter/facebook
  - But is it necessary?   Maybe it'll have its own good-enough content
    (This was what led Eric Ries to propose "Lean Startup")
-
 ---
-
 ## Algorithmic Feeds
-
- - Nothing yet
+ - I haven't heard of anything happening yet
  - Sliders: let's have a smart mixing board, that users control
  - Also set the boundaries of who you can interact with; put a safety wall
    around your social graph, if you want
-
 ---
-
-## Application Areas
-
+## Application Areas (not just Twitter, thanks)
 -    facebook style sharing with friends
 -    chat rooms
 -    photo sharing (instagram)
@@ -80,12 +78,9 @@ A: Yes, like email
 -    video sharing (youtube)
 -    ride sharing (uber, lyft)
 -    individual e-commerce (ebay, craigslist)
--    matchmaking (dating, hiring)               
-
+-    matchmaking (hiring, dating)               
 ---
-
-## Instances
-
+## Instance Issues
 -    Commercial hosting (on your domain, for your community)
 -    Commercial hosting on their domain
 -    One-click install
@@ -93,11 +88,8 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
-
 ---
-
-## Social Climate
-
+## Social Climate Issues
 -    Spam
 -    Bots
 -    Unacceptable views (Nazis, feminazi, ...)
