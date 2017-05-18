@@ -11,10 +11,14 @@ Sandro Hawke
 ---
 
 Before we get started, please watch this
-(first five minutes)
 
+(you can stop at the kid part)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=vd2ct1Pljv8">
 What is the Mastodon Social Network?
-https://www.youtube.com/watch?v=vd2ct1Pljv8
+</a>
 
 ---
 
