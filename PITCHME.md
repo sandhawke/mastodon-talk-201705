@@ -58,6 +58,15 @@ A: Yes, like email
 
 ---
 
+### Some of my favorite topics:
+- bridging
+- algorithmic feeds
+- apps beyond microblogging
+- instances (servers, admin)
+- social climate
+
+---
+
 ### Do Folks Want Bridging?
  - Inbound: use Mastodon as feed reader: rss/atom, reddit, twitter, facebook
  - Outbound: post to Mastodon and you're blogging, tweeting, etc
@@ -95,6 +104,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
+-    Admin Survey: https://github.com/sandhawke/admin-survey
 
 ---
 
