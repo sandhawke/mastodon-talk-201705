@@ -12,33 +12,21 @@ Watch
 
 ---
 
-## Q: Will this take over the world?
-
-
-
-## A: Quite Possibly
+Q: Will this take over the world?
 
 ---
 
-### Q: Can the technology scale to everyone on the planet?
+A: Quite Possibly
 
-### A: Yes, like email
+---
+
+Q: Can the technology scale to everyone on the planet?
+
+A: Yes, like email
 
 - a server only handles the communiciations of the people hosted there
 - hosting costs for mastodon.social instance are $0.03 per user per year
 - obviously that will go up traffic, big photos, videos
-
----
-
-### Near-Term Challenges
-
- - social climate, with conflicting goals
- - volunteer sysadmins
- - narrow vision (as if Twitter were everything)
- - no professional staff, PR, etc
- - politics of search
- - protocol shortcomings re: private messages, private groups
- - weakness of instance=community model
 
 ---
 ### W3C Standards & Mastodon
@@ -57,20 +45,20 @@ Watch
     - meeting records? (subscribe to Proposed/Resolved)
  - name? social.w3.org or community.w3.org or mastodon.w3.org
 ---
-## Do Folks Want Bridging?
+### Do Folks Want Bridging?
  - Inbound: use Mastodon as feed reader: rss/atom, reddit, twitter, facebook
  - Outbound: post to Mastodon and you're blogging, tweeting, etc
  - Combined: Like/Comment/Share could be bridged in+out of twitter/facebook
  - But is it necessary?   Maybe it'll have its own good-enough content
    (This was what led Eric Ries to propose "Lean Startup")
 ---
-## Algorithmic Feeds
+### Algorithmic Feeds
  - I haven't heard of anything happening yet
  - Sliders: let's have a smart mixing board, that users control
  - Also set the boundaries of who you can interact with; put a safety wall
    around your social graph, if you want
 ---
-## Application Areas (not just Twitter, thanks)
+### Application Areas (not just Twitter, thanks)
 -    facebook style sharing with friends
 -    chat rooms
 -    photo sharing (instagram)
@@ -80,7 +68,7 @@ Watch
 -    individual e-commerce (ebay, craigslist)
 -    matchmaking (hiring, dating)               
 ---
-## Instance Issues
+### Instance Issues
 -    Commercial hosting (on your domain, for your community)
 -    Commercial hosting on their domain
 -    One-click install
@@ -89,7 +77,7 @@ Watch
 -    Follower migration
 -    Migration after unexpected failure
 ---
-## Social Climate Issues
+### Social Climate Issues
 -    Spam
 -    Bots
 -    Unacceptable views (Nazis, feminazi, ...)
@@ -98,6 +86,19 @@ Watch
 -    Criminal activity (dark web)
 -    Identity verification
 -    Acceptable use policies
--    Veracity management (fake news)               
+-    Veracity management (fake news)
+---
+### Near-Term Challenges
 
+ - social climate, with conflicting goals
+ - volunteer sysadmins
+ - narrow vision (as if Twitter were everything)
+ - no professional staff, PR, etc
+ - politics of search
+ - protocol shortcomings re: private messages, private groups
+ - weakness of instance=community model
+---
+### And yet...
+
+![Fediverse](fediverse.png)
 
