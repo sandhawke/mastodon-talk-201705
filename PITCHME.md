@@ -131,4 +131,8 @@ A: Yes, like email
 * https://metadon.jemu.name/#users
 * https://dashboards.mnm.social/
 
+and
+
+* https://www.w3.org/wiki/SocialCG
+
 ---
