@@ -161,7 +161,7 @@ A: Yes, like email
 
 and
 
-* `https://www.w3.org/wiki/SocialCG` Social Web CG (meeting tomorrow)
+* <a href="https://www.w3.org/wiki/SocialCG">Active: Social Web CG (meeting tomorrow)</a>
 
 
 
