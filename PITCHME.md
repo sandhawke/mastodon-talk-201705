@@ -30,7 +30,7 @@ A: Yes, like email
 
 - a server only handles the communiciations of the people hosted there
 - hosting costs for mastodon.social instance are $0.03 per user per year
-- obviously that will go up traffic, big photos, videos
+- obviously that will go up with traffic, big photos, videos
 
 ---
 
