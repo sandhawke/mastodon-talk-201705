@@ -118,7 +118,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    Admin Survey: https://github.com/sandhawke/admin-survey
+-    <a href="https://github.com/sandhawke/admin-survey>Admin Surve</a> (new idea, last night)
 
 ---
 
