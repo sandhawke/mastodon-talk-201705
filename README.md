@@ -1,7 +1,7 @@
 
-** View: [Slides](https://gitpitch.com/sandhawke/mastodon-talk-201705) **
+**View: [Slides](https://gitpitch.com/sandhawke/mastodon-talk-201705)**
 
-** View: [Scribe notes from meeting](https://www.w3.org/2017/05/18-mastodon-minutes.html) **
+**View: [Scribe notes from meeting](https://www.w3.org/2017/05/18-mastodon-minutes.html)**
 
 Plaintext is in [pitchme.md](./PITCHME.md)
 
