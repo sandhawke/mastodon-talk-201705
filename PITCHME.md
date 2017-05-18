@@ -14,9 +14,9 @@ Before we get started, please watch this
 
 (you can stop at the kid part)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe>
+<div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-<a href="https://www.youtube.com/watch?v=vd2ct1Pljv8">
+* Directly at: <a href="https://www.youtube.com/watch?v=vd2ct1Pljv8">
 What is the Mastodon Social Network?
 </a>
 
@@ -118,7 +118,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    <a href="https://github.com/sandhawke/admin-survey>Admin Surve</a> (new idea, last night)
+-    <a href="https://github.com/sandhawke/admin-survey">Admin Survey</a> (new idea, last night)
 
 ---
 
