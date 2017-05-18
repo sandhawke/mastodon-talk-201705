@@ -10,10 +10,11 @@ Sandro Hawke
 
 ---
 
-Watch
+Before we get started, please watch this
+(first five minutes)
 
-* What is the Mastodon Social Network?
-* https://www.youtube.com/watch?v=vd2ct1Pljv8
+What is the Mastodon Social Network?
+https://www.youtube.com/watch?v=vd2ct1Pljv8
 
 ---
 
@@ -23,9 +24,11 @@ Q: Will this take over the world?
 
 A: Quite Possibly
 
-* it's a crack in the dam
-* showing people decentralization can work
-* dunno yet if the crack is big enough
+- it's a crack in the dam
+- showing people decentralization can work
+
+- dunno yet if the crack is big enough
+
 ---
 
 Q: Can the technology scale to everyone on the planet?
@@ -33,14 +36,15 @@ Q: Can the technology scale to everyone on the planet?
 A: Yes, like email
 
 - a server only handles the communiciations of the people hosted there
-- hosting costs for mastodon.social instance are $0.03 per user per year
-- obviously that will go up with traffic, big photos, videos
+- hosting costs are quite reasonable
+ - when mastodon.social had 43,000 users, hosting cost $0.03/user/year
+ - obviously that will go up with traffic, big photos, videos
 
 ---
 
 ### W3C Standards & Mastodon
 
- - Mastodon built on OStatus
+ - Mastodon built on OStatus (Atom, ActivityStreams, WebSub, Salmon, Webfinger)
  - Key folks behind OStatus went on the make ActivityPub which is W3C CR
  - Mastodon devs have started implementing ActivityPub support, especially
    for the group and private message support
@@ -55,6 +59,12 @@ A: Yes, like email
     - github events? (subscribe to commits, issues, comments)
     - meeting records? (subscribe to Proposed/Resolved)
  - name? social.w3.org or community.w3.org or mastodon.w3.org
+
+---
+
+### Other Questions?
+
+- some of *my* questions on following slides
 
 ---
 
