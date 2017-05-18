@@ -16,8 +16,10 @@ Before we get started, please watch this
 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vd2ct1Pljv8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-* On youtube: `https://www.youtube.com/watch?v=vd2ct1Pljv8`
-What is the Mastodon Social Network?
+* (Links in GitPitch are currently broken on Firefox, sorry!)
+
+* https://www.youtube.com/watch?v=vd2ct1Pljv8
+* What is the Mastodon Social Network?
 
 
 ---
@@ -118,7 +120,7 @@ A: Yes, like email
 -    Data migration
 -    Follower migration
 -    Migration after unexpected failure
--    Fun idea: `https://github.com/sandhawke/admin-survey`
+-    https://github.com/sandhawke/admin-survey (new idea, last night)
 
 ---
 
@@ -155,11 +157,13 @@ A: Yes, like email
 
 ### Stats
 
-* `https://radar.amberstone.digital/chart/fediverse` radar (bubble chart)
-* `https://metadon.jemu.name/#users` metadon (users, and a lot more)
-* `https://dashboards.mnm.social/` mnm, time series dashboard
+* https://radar.amberstone.digital/chart/fediverse radar (bubble chart)
+* https://metadon.jemu.name/#users  users growth, and a lot more
+* https://dashboards.mnm.social/ time series dashboard
 
 and
 
-* <a href="https://www.w3.org/wiki/SocialCG">Active: Social Web CG (meeting tomorrow)</a>
+* https://www.w3.org/wiki/SocialCG  Social Web CG (meeting tomorrow)
+
+
 
