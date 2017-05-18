@@ -12,7 +12,8 @@ Sandro Hawke
 
 Watch
 
-* What is the Mastodon Social Network?  https://www.youtube.com/watch?v=vd2ct1Pljv8
+* What is the Mastodon Social Network?
+* https://www.youtube.com/watch?v=vd2ct1Pljv8
 
 ---
 
