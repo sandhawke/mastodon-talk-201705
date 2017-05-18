@@ -163,5 +163,3 @@ and
 
 * <a href="https://www.w3.org/wiki/SocialCG">Active: Social Web CG (meeting tomorrow)</a>
 
-
-
