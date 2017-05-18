@@ -94,7 +94,7 @@ A: Yes, like email
 
 ---
 
-### Social Climate Issues
+### Social Climate Issues (Coming Someday)
 -    Spam
 -    Bots
 -    Unacceptable views (Nazis, feminazi, ...)
@@ -109,17 +109,17 @@ A: Yes, like email
 
 ### Near-Term Challenges
 
- - social climate, with conflicting goals
+ - trolls
  - volunteer sysadmins
- - narrow vision (as if Twitter were everything)
+ - too-narrow vision
  - no professional staff, PR, etc
- - politics of search
+ - complex politics of search?
  - protocol shortcomings re: private messages, private groups
  - weakness of instance=community model
 
 ---
 
-### And yet...
+### And yet... [1](https://radar.amberstone.digital/chart/fediverse)[2](https://metadon.jemu.name/#users)[3](https://dashboards.mnm.social/)
 
 ![Fediverse](fediverse.png)
 
