@@ -50,7 +50,8 @@ W3C Community & Mastodon
 
 ---
 
-Do Folks Want Bridging?
+## Do Folks Want Bridging?
+
  - Inbound: use Mastodon as feed reader: rss/atom, reddit, twitter, facebook
  - Outbound: post to Mastodon and you're blogging, tweeting, etc
  - Combined: Like/Comment/Share could be bridged in+out of twitter/facebook
@@ -59,7 +60,7 @@ Do Folks Want Bridging?
 
 ---
 
-###Algorithmic Feeds
+## Algorithmic Feeds
 
  - Nothing yet
  - Sliders: let's have a smart mixing board, that users control
@@ -68,40 +69,41 @@ Do Folks Want Bridging?
 
 ---
 
-# Application Areas
+## Application Areas
 
-    facebook style sharing with friends
-    chat rooms
-    photo sharing (instagram)
-    photo management (google photos)
-    video sharing (youtube)
-    ride sharing (uber, lyft)
-    individual e-commerce (ebay, craigslist)
-    matchmaking (dating, hiring)               
+-    facebook style sharing with friends
+-    chat rooms
+-    photo sharing (instagram)
+-    photo management (google photos)
+-    video sharing (youtube)
+-    ride sharing (uber, lyft)
+-    individual e-commerce (ebay, craigslist)
+-    matchmaking (dating, hiring)               
 
 ---
-Instances
 
-    Commercial hosting (on your domain, for your community)
-    Commercial hosting on their domain
-    One-click install
-    Instance directory with meaningful policy details
-    Data migration
-    Follower migration
-    Migration after unexpected failure
+## Instances
+
+-    Commercial hosting (on your domain, for your community)
+-    Commercial hosting on their domain
+-    One-click install
+-    Instance directory with meaningful policy details
+-    Data migration
+-    Follower migration
+-    Migration after unexpected failure
 
 ---
 
 ## Social Climate
 
-    Spamgit@github.com:sandhawke/mastodon-talk-201705.git
-    Bots
-    Unacceptable views (Nazis, feminazi, ...)
-    Clickbait
-    Echo Chambers
-    Criminal activity (dark web)
-    Identity verification
-    Acceptable use policies
-    Veracity management (fake news)               
+-    Spam
+-    Bots
+-    Unacceptable views (Nazis, feminazi, ...)
+-    Clickbait
+-    Echo Chambers
+-    Criminal activity (dark web)
+-    Identity verification
+-    Acceptable use policies
+-    Veracity management (fake news)               
 
 
